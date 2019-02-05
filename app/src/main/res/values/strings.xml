@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Enquiryapp1</string>
+    <string-array name="purpose">
+        <item>official</item>
+        <item>unofficial</item>
+    </string-array>
+</resources>
